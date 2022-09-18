@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="orange">#FF6E0D</color>
+    <color name="blue">#00AEFF</color>
+    <color name="emeraude">#04C58E</color>
+    <color name="rose">#9E0737</color>
+    <color name="yellow">#DAA300</color>
+    <color name="orangetp">#94FF6E0D</color>
+    <color name="bluetp">#8500AEFF</color>
+    <color name="emeraudetp">#8504C58E</color>
+    <color name="rosetp">#8A9E0737</color>
+    <color name="yellowtp">#8BDAA300</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
